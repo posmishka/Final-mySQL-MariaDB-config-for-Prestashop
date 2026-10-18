@@ -1,4 +1,4 @@
-# Optimized MariaDB 10.11 Config for PrestaShop 1.7 (8GB RAM)
+# Optimized MariaDB 10.11 Config for PrestaShop (8GB RAM)
 
 This repository contains a battle-tested MariaDB configuration file (`50-server.cnf`) specifically optimized for **PrestaShop 1.7** running heavy batch imports (like 1C synchronization) on modern MariaDB engines.
 
